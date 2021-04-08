@@ -3,7 +3,7 @@ Fichier config d'OMERO
 
 Ce repository contient les fichiers avec les variables d'environnements nécessaire au fonctionnement d'OMERO.
 
-Les fichiers settings.env et omero-ice*.bash situés dans /opt/ doivent être source lorsqu'on démarre le serveur manuellement.
+Les fichiers settings.env et ice-omero*.bash situés dans /opt/ doivent être source lorsqu'on démarre le serveur manuellement.
 Le fichier confw.env situé dans /opt/ doit être source lorsqu'on démarre le client web manuellement. 
 Les fichiers config.xml situés dans .../etc/grid sont parcouru lorsque l'on démarre le serveur et le client web. 
 
